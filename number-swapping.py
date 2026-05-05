@@ -9,8 +9,8 @@ n2=30
 temp = n1
 n1=n2
 n2 = temp
-print("n1 =", n1)
-print("n2 =", n2)
+# print("n1 =", n1)
+# print("n2 =", n2)
 
 #2. Switch values of two strings (characters) 
 # Input: char1 = "hello" 
@@ -22,8 +22,8 @@ char2 = "java"
 temp = "hello"
 char1 = char2
 char2 = temp
-print("char1 =", char1)
-print("char2 =", char2)
+# print("char1 =", char1)
+# print("char2 =", char2)
 
 # 3. Switch one string value with one integer value
 # Input:  n1 = 200,  
@@ -36,5 +36,21 @@ char2 = "java"
 temp = n1
 n1 = char2
 char2 = temp
-print("n1 =", n1)
-print("char2 =", char2)
+# print("n1 =", n1)
+# print("char2 =", char2)
+
+
+x='Hello' 
+y=3
+# print(x/y)
+
+x=10 
+y=2.5
+# print(type(x+y))
+
+x='3.5'
+# print(float(x))
+
+x='Hello'
+y=3
+#print(x*y)
